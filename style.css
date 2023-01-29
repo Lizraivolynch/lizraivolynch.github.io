@@ -1,1 +1,14 @@
-
+body {
+ background-color: tan;
+ color: darkblue;
+ font-family: Comic Sans MS, Baskerville Old Face;
+ margin: 10% 20%
+ text-align: center;
+   }
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
+border-top: 1px solid;
+border-bottom: 1px solid;
+  background-color: rgba(0,0,0, 0.1)
+}
