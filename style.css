@@ -2,10 +2,8 @@ body {
  background-color: lightblue;
  color: darkblue;
  font-family: Comic Sans MS, Baskerville Old Face;
- margin: 10% 20%
-   }
-.exp-header {
-  text-align: center;
+ margin: 10% 20% }
+{ text-align: center;
   text-transform: uppercase;
 border-top: 1px solid;
 border-bottom: 1px solid;
